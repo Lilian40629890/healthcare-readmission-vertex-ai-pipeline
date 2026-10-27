@@ -78,6 +78,6 @@ RUN_ON_VERTEX=1 python src/04_training_pipeline/training_pipeline.py     # compi
 
 ## Team
 
-Steven Ma, Jackson Li, Ching Lee, and Zhirui Zeng — ISE 543, University of Southern California.
+Steven Ma, Jackson Li, Lilian Lee, and Zhirui Zeng — ISE 543, University of Southern California.
 
-**My contribution (Ching Lee):** designed and ran the [model experiments](src/03_model_experiments/) in Vertex AI Experiments and wrote the Model Experimentation Report.
+**My contribution (Lilian Lee):** designed and ran the [model experiments](src/03_model_experiments/) in Vertex AI Experiments and wrote the Model Experimentation Report.

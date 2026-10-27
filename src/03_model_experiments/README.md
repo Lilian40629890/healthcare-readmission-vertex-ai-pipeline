@@ -1,6 +1,6 @@
 # 03 — Model Experiments
 
-**Owner: Ching Lee** — designed and ran the model experiments in Vertex AI Experiments and wrote the Model Experimentation Report.
+**Owner: Lilian Lee** — designed and ran the model experiments in Vertex AI Experiments and wrote the Model Experimentation Report.
 
 The experiment code is not included in this repository. This page documents the experiment design, results, and conclusions.
 
