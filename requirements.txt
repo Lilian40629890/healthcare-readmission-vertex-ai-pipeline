@@ -1,0 +1,7 @@
+kfp>=2.0
+google-cloud-aiplatform
+pandas
+scikit-learn
+joblib
+gcsfs
+fsspec
